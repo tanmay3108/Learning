@@ -1,0 +1,5 @@
+chmod ugo+rwx filename.ext //it gives permission to read write and execuet to user grpup and organisation
+python filename.py//for running python script
+
+g++ -o a xyz.cpp
+gcc -o xyz.c

@@ -1,0 +1,65 @@
+
+
+create table students(
+id bigint(19) not null auto_increment, 
+name varchar(100) null,
+constraint pk_students primary key(id));
+
+
+create table marks(
+student_id bigint(19) not null, 
+subject_id bigint(19) not null, 
+marks int null, 
+constraint pk_marks primary key(student_id, subject_id),
+constraint fk_marks_student_id foreign key (student_id) references students(id) on delete cascade);
+
+
+students
+marks
+
+id
+name
+1
+Harry
+2
+Ron
+3
+Hermione
+4
+Nevile
+5
+Ginny
+
+
+
+student_id
+subject_id
+marks
+1
+1
+90
+1
+2
+92
+1
+3
+89
+1
+4
+85
+1
+5
+90
+
+
+
+
+1a.Get me all the students who have scored more than 50 marks.
+Select distinct(s.name) from students s inner join marks m on s.id = m.student_id where marks >50
+
+1b. Get me all the students who have scored more than 50 marks in at least 3 subjects.
+     Select student_id,count(student_id) from marks where marks > 50 group by student_id having count(student_id)>=3 
+
+1c. Write a single sql query to fetch the students(name) who has not appeared for any subject. 
+      Don’t use subqueries.
+Select s.name from student s right join marks m on s.id = m.student_id where subject_id is NULL; 

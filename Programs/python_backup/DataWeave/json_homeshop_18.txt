@@ -1,0 +1,72 @@
+{prodId : ['31756689'],pname : ['Nokia X Dual SIM Mobile Phone Black'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['7199'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30860959'],pname : ['Nokia Lumia 520 Windows Mobile Phone Black'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['8499'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30860963'],pname : ['Nokia Lumia 520 Windows Mobile Phone Red'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['8889'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['31756683'],pname : ['Nokia X Dual SIM Mobile Phone Green'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['7199'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['31756693'],pname : ['Nokia X Dual SIM Mobile Phone Red'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['7199'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['31466417'],pname : ['Nokia Asha 500 Dual SIM Mobile Phone Black'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['3969'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['31052047'],pname : ['Nokia 107 Dual SIM Mobile Phone Black'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['1599'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['31756691'],pname : ['Nokia X Dual SIM Mobile Phone White'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['7199'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['31440735'],pname : ['Nokia Asha 502 Dual SIM Mobile Phone Black'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['5219'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30860967'],pname : ['Nokia Lumia 520 Windows Mobile Phone Yellow'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['8889'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30860975'],pname : ['Nokia Lumia 620 Windows Mobile Phone White'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['13799'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30143482'],pname : ['Nokia Asha 311 Mobile Phone Sand White'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['6399'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30492061'],pname : ['Nokia Asha 206 Dual SIM Mobile Phone Black'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['3699'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30492063'],pname : ['Nokia Asha 206 Dual SIM Mobile Phone White'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['3699'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30514217'],pname : ['Nokia Asha 310 Dual SIM Mobile Phone Black'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['5699'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30542571'],pname : ['Nokia Asha 206 Dual SIM Mobile Phone Cyan'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['3699'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30542573'],pname : ['Nokia Asha 206 Dual SIM Mobile Phone Yellow'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['3699'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30663685'],pname : ['Nokia Asha 501 Dual SIM Mobile Phone Black'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['4569'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30663689'],pname : ['Nokia Asha 501 Dual SIM Mobile Phone Red'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['4569'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30663691'],pname : ['Nokia Asha 501 Dual SIM Mobile Phone White'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['4569'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30664487'],pname : ['Nokia 114 Dual SIM Mobile Phone Black'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['2369'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30664493'],pname : ['Nokia 112 Dual SIM Mobile Phone Dark Grey'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['2799'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30762967'],pname : ['Nokia Asha 210 Dual SIM Mobile Phone Black'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['4649'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+
+{prodId : ['30860969'],pname : ['Nokia Lumia 620 Windows Mobile Phone Black'],pcat : ['Mobiles'],psubcat : ['GSM Mobile Phones'],pvalues : ['13799'],pagetype : 'product',orderId : '',g : '',age : '',squery : '',tv_product : ['N']}
+
+

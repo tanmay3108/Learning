@@ -1,0 +1,24 @@
+-- VERSION_3
+-- START DISKCACHE
+C:\Users\keemos\Desktop\eclp\.metadata\.plugins\org.eclipse.core.resources\.projects\tanmay\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+yes.xyz|0|C:\Users\keemos\Desktop\eclp\tanmay\yes\xyz.py
+yes.__init__|0|C:\Users\keemos\Desktop\eclp\tanmay\yes\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=yes.xyz
+-- END DICTIONARY
+-- START TREE 1
+7
+a|1|a!11@
+det|1|details!11@
+nam|1|name!11@
+new|1|newdetails!11@
+num|2|number!11@numbers!11@
+tup|1|tuplenumber!11@
+x|1|x!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,18 @@
+1)MODULES REQUIRED BeautifulSoup,urlib2,csv
+
+
+
+
+2)For Proper indentaion open the json_homeshop_18.txt with Notepad++.
+  It contains the json data collected from the HomeShop18
+
+
+
+3)output-It contains the CSV value as required in the question
+
+
+3)Both output and json_homeshop_18.txt files can be deleted since everytime script is executed these files will be overwrited
+
+
+
+!!!!!BUT DONT DELETE index.txt since it contains the Html text of url given in the question!!!!!

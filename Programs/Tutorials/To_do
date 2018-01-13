@@ -1,0 +1,87 @@
+#include<iostream>
+#include<cstring>
+#include<cmath>
+#include<list>
+using namespace std;
+
+682		
+1436
+870
+9655
+15563-string powers TLE
+9808. Topological Sorting//SEGMENTATION ERROR
+
+log(n)/log(10)+1=number of digits in n
+
+string s;
+string m;
+s.len();
+s.compare(m);
+
+C
+strlen()
+strcpy()
+strcmp()
+strcat()
+
+
+1<<n=2^n
+python chmod -rwx filename.ext
+
+#include<list>
+list<struct nod *>link;
+struct nod *x=link.front();
+link.pop_front();
+link.pop_back();
+link.push_back(x->left);
+link.push_back(x->right);
+link.push_front(s);
+link.front()
+link.back()
+link.size()
+
+c++
+sort(arr,arr+7);
+
+Map
+map<int,object> hm;
+map<int, object> :: iterator itr;
+
+hm[key]=value; hm.put(key,value);
+hm.find(key) =hm.get(key);
+for(it=hm.begin();it!=hm.end();it++)
+	{
+	    cout<<it->first<<endl;
+		cout<<it->second<<endl;
+		//first is keyword and corresponds to key
+		//second is keyword corresponds to value
+	}
+
+
+fibo(n)=A^n
+nth term of fibo is the [0][0] term of the matrice A^n
+where A={{1,1}{1,0}}
+
+
+
+overloading of postincrement operator dummy variable is required
+
+43359366
+
+
+
+g++ -o nameOfTheExecutable dotCppfile.cpp 
+
+binary_search(lo, hi, p):
+   while we choose not to terminate:
+      mid = lo + (hi-lo)/2
+      if p(mid) == true:
+         hi = mid
+      else:
+         lo = mid
+          
+   return lo // lo is close to the border between no and yes
+
+
+
+   Binary search for real numbers

@@ -1,0 +1,14 @@
+Java tutorial
+
+Interfaces cannot have static function
+
+If you want statics, use an abstract class and inherit it, otherwise, remove the static. You can't define static methods in an interface because static methods belongs to a class not to an instance of class, and interfaces are not Classes
+
+Static methods cannot be overridden
+
+
+A final variable must be initialized at the declaration or in a constructor.
+
+if object is made final it does not means it attributes cannot be changed..it means this will always point to same object and cannot be made to point some other object
+
+difference between volatile and synchronized 
